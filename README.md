@@ -31,7 +31,7 @@ The dataset includes the following columns:
 - **Missing Values**: 
   - Developer: 53 missing values
   - Publisher: 183 missing values
-  - Other fields: Complete
+  - All other fields: No missing values
 
 ### Sample Data
 
